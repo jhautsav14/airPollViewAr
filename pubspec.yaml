@@ -38,6 +38,7 @@ dependencies:
   location: ^7.0.1
   http: ^1.2.2
   get: ^4.6.6
+  fl_chart: ^0.70.2
 
 dev_dependencies:
   flutter_test:
