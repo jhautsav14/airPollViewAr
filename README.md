@@ -24,7 +24,7 @@ Here's a comprehensive **README.md** for your **Air Pollution Tracker** GitHub r
 
 A Flutter application that monitors real-time air quality data, displays AQI levels, and provides detailed pollutant information with an interactive AR experience.
 
-![App Screenshot](assets/screenshots/app_preview.png) *(Replace with your actual screenshot)*
+
 
 ## ✨ Features
 
