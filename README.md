@@ -68,7 +68,7 @@ A Flutter application that monitors real-time air quality data, displays AQI lev
 
 | Home Screen | AQI Dashboard | AR View |
 |-------------|---------------|---------|
-| ![Home](assets/screenshots/home.png) | ![Dashboard](assets/screenshots/dashboard.png) | ![AR](assets/screenshots/ar.png) |
+| ![Home](assets/screenshots/home.jpg) | ![Dashboard](assets/screenshots/dashboard.jpg) | ![AR](assets/screenshots/ar.jpg) |
 
 ## 🧰 Technologies Used
 
