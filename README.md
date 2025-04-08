@@ -1,6 +1,4 @@
-# Enhancing Air Pollution Visualization in 
-Augmented Reality Using Adaptive Level of 
-Detail
+# Enhancing Air Pollution Visualization in Augmented Reality Using Adaptive Level of Detail
 
 
 ## Getting Started
